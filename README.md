@@ -32,7 +32,7 @@ Hi, I'm Amrit, a bored teen just living life. I do fun projects, generally for t
   
   
 
-![Amrit's github stats](https://github-readme-stats.vercel.app/api?username=Amrit6969&show_icons=true&hide_border=true)
+![Amrit's github stats](https://github-readme-stats.vercel.app/api?username=Amrit6969&show_icons=true&hide_border=true&theme=dark)
 
 :pushpin: Dont forget to follow me on on Github :stuck_out_tongue: 
 

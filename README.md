@@ -8,7 +8,7 @@ Hi, I'm Amrit, a bored teen just living life. I do fun projects, generally for t
  
 
 
- [<img align="right" height="340px" width= "510px" alt="GIF" src="https://i.imgur.com/Wo5AJnU.gif" />](https://www.reddit.com/r/AmritOnTop/)
+ [<img align="right" height="340px" width= "510px" alt="GIF" src="https://i.imgur.com/Wo5AJnU.gif" />](https://www.reddit.com/u/AmritOnTop/)
  
  
 **My Skills:**

@@ -28,7 +28,7 @@ Hi, I'm Amrit, a bored teen just living life. I do fun projects, generally for t
 **Some Of My Projects:**
 
 - A Minecraft Kit Bot/Chat Bot Called <a href="https://github.com/Amrit6969/Amrit-Bot" align="left" > AmritOnTop Kit Bot </a> <br />
-  [![Join The Discord server!](https://invidget.switchblade.xyz/ASYAjUHQvh)](https://discord.gg/BnRqXdzyHw)
+  [![Join The Discord server!](http://invidget.switchblade.xyz/BnRqXdzyHw)](https://discord.gg/BnRqXdzyHw)
   
   
 

@@ -14,7 +14,7 @@ Hi, I'm Amrit, a bored teen just living life. I do fun projects, generally for t
 **My Skills:**
 
 -  Node JS and Web development
--  Java, JavaScript, Node.js, NPM
+-  Java, JavaScript, Node.js, NPM, Python
 
 
 
